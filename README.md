@@ -1,1 +1,1 @@
-# ai-thought
+# ai-thoughts-workshop
